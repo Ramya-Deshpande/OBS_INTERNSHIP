@@ -2,7 +2,7 @@ Overview
 This project performs Exploratory Data Analysis (EDA) on a dataset to uncover patterns, trends, and relationships between variables. The analysis involves various visualizations, statistical insights, and interpretations to better understand the dataset.
 
 Contents of repository
-1.explorartorydataanalysis1.ipynb and explorartorydataanalysis2.ipynb (code is split into two notebooks to manage size while pushing to repository) containing python code.
+1.explorartorydataanalysis1.ipynb, explorartorydataanalysis2.ipynb, explorartorydataanalysis3.ipynb and explorartorydataanalysis4.ipynb (code is split into two notebooks to manage size while pushing to repository) containing python code.
 2.Readme.md
 3.Analysis of plots: pdf containing analysis of plots generated.
 4.Dataset in csv format.
